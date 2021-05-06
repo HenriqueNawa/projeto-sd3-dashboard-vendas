@@ -1,5 +1,5 @@
 # Projeto de dashboard de vendas SDS 2021
-Projeto de sistema de vendas desenvolvido na Semana Spring React da DevSuperior 2021, ministrado pelo professor Nélio Alves
+Projeto de sistema de dashboard vendas desenvolvido na Semana Spring React da DevSuperior 2021, ministrado pelo professor Nélio Alves
 
 Site desenvolvido: https://henrique-nawa-dashboard-dsvendas.netlify.app
 
