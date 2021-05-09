@@ -1,5 +1,5 @@
 # Projeto de dashboard de vendas SDS 2021
-Projeto de sistema de dashboard vendas desenvolvido na Semana Spring React da DevSuperior 2021, ministrado pelo professor Nélio Alves
+Projeto de sistema de dashboard de vendas desenvolvido durante a Semana Spring React da <a href="https://devsuperior.com.br">DevSuperior</a> no ano de 2021, ministrado pelo mestre <a href="https://github.com/acenelio">Nélio Alves</a>
 
 Site desenvolvido: https://henrique-nawa-dashboard-dsvendas.netlify.app
 
@@ -20,4 +20,13 @@ Site desenvolvido: https://henrique-nawa-dashboard-dsvendas.netlify.app
   <li>Utilização do Pageable do Spring JPA - ajuda a filtrar os registros podendo ordená-los por data, nome; limitar os registros apresentados</li>
   <li>Configuração do Banco de Dados PostgreSQL com a criação de tabelas e seleção de dados</li>
   <li>Servidor Heroku para o backend da aplicação</li>
+</ul>
+
+### <b>Aula 03 Finalização da integração entre Backend e Frontend - Itens aprendidos</b>
+<ul>
+  <li>Controle de Rotas por meio do React Router DOM</li>
+  <li>Uso do Axios para fazer as requisições</li>
+  <li>Uso do Hook useState que mantém o estado de um componente</li>
+  <li>Uso do Hook useEffect que tem como finalidade executar algo na instanciação ou destruição do componente, observar estado</li>
+  <li>Comunicação entre componentes para atualizar a página chamando os devidos dados da página</li>
 </ul>
